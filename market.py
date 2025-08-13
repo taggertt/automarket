@@ -45,6 +45,9 @@ def add_item():
 
         return Track(new_id, new_model, new_year, new_engine, new_cost, new_mileage, new_updated_at)
 
+"""Создание экземпляров класса"""
+audi = Car('100', 'Audi A8', 2010, 3.0, 5000, 100000, '2025.08.13')
+volvo = Track('101', 'Volvo FH', 2020, 15, 10000, 200000, '2025.08.13')
 
 """Стартовое меню авторынка"""
 cars = {}
