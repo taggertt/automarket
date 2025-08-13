@@ -1,0 +1,26 @@
+{
+    "1": {
+        "model": "Mazda",
+        "year": 2012,
+        "engine": 2.4,
+        "cost": 4000,
+        "mileage": 100000,
+        "updated_at": "2025-08-13"
+    },
+    "2": {
+        "model": "Volvo FH",
+        "year": 2020,
+        "engine": 15,
+        "cost": 10000,
+        "mileage": 150000,
+        "updated_at": "2025-08-13"
+    },
+    "3": {
+        "model": "Mark II",
+        "year": 2012,
+        "engine": 3,
+        "cost": 2000,
+        "mileage": 180000,
+        "updated_at": "2025-08-13"
+    }
+}

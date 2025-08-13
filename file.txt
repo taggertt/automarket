@@ -1,0 +1,1 @@
+{'1': {'model': '', 'year': 1, 'engine': 1, 'cost': 1, 'mileage': 1, 'updated_at': datetime.date(2025, 8, 12)}}
